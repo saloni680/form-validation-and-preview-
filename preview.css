@@ -1,0 +1,18 @@
+body{
+    height: 600px;
+    width : 500px;
+    border : 2px solid #000000;
+    margin-left: 20px;
+    padding : 10px;
+    font-size: larger;
+}
+header{
+    text-align: center;
+}
+img{
+    height: 100px;
+    width: 280px;
+}
+.fa-print{
+    margin-left: 450px;
+}
